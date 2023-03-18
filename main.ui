@@ -24,13 +24,13 @@
      </rect>
     </property>
     <property name="styleSheet">
-     <string notr="true">font: 26pt &quot;Yu Gothic UI Semibold&quot;;
+     <string notr="true">font: 17pt &quot;Yu Gothic UI Semibold&quot;;
 color: white;
 background-color: red;
 border-radius: 10px;</string>
     </property>
     <property name="text">
-     <string>Kafka Bank</string>
+     <string>Geeks Bank</string>
     </property>
     <property name="alignment">
      <set>Qt::AlignCenter</set>
@@ -51,9 +51,6 @@ color: white;
 background-color: red;
 border-radius: 10px;</string>
     </property>
-    <property name="alignment">
-     <set>Qt::AlignCenter</set>
-    </property>
     <property name="placeholderText">
      <string>Логин</string>
     </property>
@@ -72,9 +69,6 @@ border-radius: 10px;</string>
 color: white;
 background-color: red;
 border-radius: 10px;</string>
-    </property>
-    <property name="alignment">
-     <set>Qt::AlignCenter</set>
     </property>
     <property name="placeholderText">
      <string>Пароль</string>
@@ -123,7 +117,7 @@ border-radius: 10px;</string>
      <rect>
       <x>240</x>
       <y>140</y>
-      <width>341</width>
+      <width>331</width>
       <height>41</height>
      </rect>
     </property>
@@ -136,9 +130,6 @@ border-radius: 10px;</string>
     <property name="text">
      <string>Неправильные данные</string>
     </property>
-    <property name="alignment">
-     <set>Qt::AlignCenter</set>
-    </property>
    </widget>
   </widget>
   <widget class="QMenuBar" name="menubar">
@@ -147,7 +138,7 @@ border-radius: 10px;</string>
      <x>0</x>
      <y>0</y>
      <width>800</width>
-     <height>21</height>
+     <height>26</height>
     </rect>
    </property>
   </widget>
